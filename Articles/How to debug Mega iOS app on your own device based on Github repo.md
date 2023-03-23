@@ -19,10 +19,11 @@ sudo "/Applications/CMake.app/Contents/bin/cmake-gui" --install
 Repo link: [https://github.com/meganz/iOS](https://github.com/meganz/iOS)
 
 # 4. Update submodule
+
 - open `.gitmodules` file under repo root directory, and change the URL:
 
-> 1. Change url for karere submodule, [use this one]([https://github.com/meganz/MEGAchat.git](https://github.com/meganz/MEGAchat.git))
-2. Change url for SDK submodule, [use this one]([https://github.com/meganz/SDK.git](https://github.com/meganz/SDK.git))
+1. Change url for karere submodule, use this one: https://github.com/meganz/MEGAchat.git
+2. Change url for SDK submodule, use this one: https://github.com/meganz/SDK.git
 
 - run command to update:
 
