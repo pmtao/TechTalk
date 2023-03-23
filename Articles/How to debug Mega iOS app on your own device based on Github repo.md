@@ -1,4 +1,4 @@
-# How to debug Mega iOS app based on github repo
+# How to debug Mega iOS app on your own device based on Github repo
 
 [Home - MEGA](https://mega.io/)
 
